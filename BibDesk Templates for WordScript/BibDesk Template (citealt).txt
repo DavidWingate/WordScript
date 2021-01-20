@@ -1,0 +1,1 @@
+\citealt[<$publications>][]{<$citeKey/>}<?$publications>\citealt[; </$publications>
