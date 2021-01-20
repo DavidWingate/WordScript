@@ -1,0 +1,1 @@
+<$publications><$fields.Year?><$fields.Year.stringByConvertingHyphensToDashes/></$fields.Year?><?$publications>; </$publications>
