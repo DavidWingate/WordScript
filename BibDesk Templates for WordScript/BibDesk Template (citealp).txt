@@ -1,1 +1,0 @@
-\citealp[<$publications>][]{<$citeKey/>}<?$publications>\citealp[; </$publications>
