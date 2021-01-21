@@ -1,0 +1,1 @@
+<$publications><$#=1?>\citet[][]{<$citeKey/><?$#?>,<$citeKey/></$#?></$publications>}
